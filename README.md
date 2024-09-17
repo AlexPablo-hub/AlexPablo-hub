@@ -52,4 +52,3 @@
 
 
 ![Snake animation](https://github.com/AlexPablo-hub/AlexPablo-hub/blob/output/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/AlexPablo-hub/AlexPablo-hub/blob/output/github-contribution-grid-snake.gif)
