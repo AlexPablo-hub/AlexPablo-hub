@@ -51,6 +51,5 @@
 </div>
 
 
-[![teste](https://github-readme-activity-graph.vercel.app/graph?username=AlexPablo-hub&theme=github-compact)](https://github.com/AlexPablo-hub/AlexPablo-hub)
-
 ![Snake animation](https://github.com/AlexPablo-hub/AlexPablo-hub/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AlexPablo-hub/AlexPablo-hub/blob/output/github-contribution-grid-snake.gif)
