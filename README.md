@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -48,7 +48,14 @@
   <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+  <img align="center" alt="Microsoft SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Express.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="Tor" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tor/tor-original.svg">
+  <img align="center" alt="Excel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/file-type/excel.svg">
+  <img align="center" alt="Office" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/file-type/office.svg">
+  <img align="center" alt="ChatGPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg">
 </div>
+
 
 
 <h2 align="center">My Github Stats</h2>
