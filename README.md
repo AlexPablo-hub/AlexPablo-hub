@@ -39,7 +39,7 @@
 
 <h2 align="center">My Social Networks</h2>
 
-<div align="center">
+<div style="display: inline_block" padding: 10px; align="center"><br>
   <a href="https://www.instagram.com/alex_p.oliveira/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.facebook.com/alexpablo.deoliveiramoraes" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://www.linkedin.com/in/alex-pablo-d-4961a9141/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
