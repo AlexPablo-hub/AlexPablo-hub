@@ -3,7 +3,7 @@
 
 <h2 align="center">Technology Stack</h2>
 
-<div style="display: inline_block" padding: 10px; align="center"><br>
+  <div style="display: flex; justify-content: center; gap: 20px;" align="center">
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
