@@ -32,8 +32,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexPablo-hub&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" alt="AlexPablo-hub's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexPablo-hub&theme=chartreuse-dark&hide_border=false" alt="AlexPablo-hub's Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPablo-hub&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact" alt="AlexPablo-hub's Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexPablo-hub&theme=chartreuse-dark&hide_border=false" alt="AlexPablo-hub's Streak" />
+  
 </div>
 
 <h2 align="center">My Social Networks</h2>
