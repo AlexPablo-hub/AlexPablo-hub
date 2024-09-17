@@ -13,7 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![AlexPablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexPablo-hub)](https://github.com/AlexPablo-hub/github-readme-stats)
-![AlexPablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexPablo-hub&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![AlexPablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexPablo-hub&show_icons=true)
-![AlexPablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexPablo-hub&show_icons=true&theme=dark)
+[![AlexPablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexPablo-hub&show_icons=true&theme=dark)](https://github.com/AlexPablo-hub/github-readme-stats)
