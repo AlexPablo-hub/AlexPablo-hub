@@ -13,3 +13,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPablo-hub&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact" alt="AlexPablo-hub's Top Languages" />
 </div>
 
+[![teste](https://github-readme-activity-graph.vercel.app/graph?username=AlexPablo-hub&theme=github-compact)](https://github.com/AlexPablo-hub/AlexPablo-hub)
