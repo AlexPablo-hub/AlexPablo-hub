@@ -5,7 +5,7 @@ on:
     # Executa a cada 6 horas
     - cron: "0 */6 * * *"
   workflow_dispatch:
-
+  
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,9 +16,9 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: AlexPablo-hub
+          github_user_name: AlexPablo-hub  # Substitua com seu nome de usuário
           outputs: gif
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v3  # Atualizado para v3
         with:
           name: snake-gif
           path: dist/github-contribution-grid-snake.svg
