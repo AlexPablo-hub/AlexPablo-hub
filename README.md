@@ -22,7 +22,7 @@
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="JASON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Office" height="30" width="40" ![image](https://github.com/user-attachments/assets/72f943e0-75d8-47f2-a71d-a6106c26c9d2)>
+  <img align="center" alt="Office" height="30" width="40" src="https://img.icons8.com/?size=100&id=6kZdxe7t8OL1&format=png&color=000000">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
   <img align="center" alt="ChatGPT" height="40" width="40" src="https://img.icons8.com/?size=100&id=Nts60kQIvGqe&format=png&color=000000">
