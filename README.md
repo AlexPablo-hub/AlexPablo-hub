@@ -3,7 +3,7 @@
 
 <h2 align="center">Technology Stack</h2>
 
-  <div style="display: flex; justify-content: center; gap: 20px;" align="center">
+<div style="display: flex; justify-content: center; gap: 20px;" align="center">
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -30,16 +30,15 @@
 
 <h2 align="center">My Github Stats</h2>
 
-<div align="center">
+<div style="display: flex; justify-content: center; gap: 20px;" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexPablo-hub&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" alt="AlexPablo-hub's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPablo-hub&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact" alt="AlexPablo-hub's Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexPablo-hub&theme=chartreuse-dark&hide_border=false" alt="AlexPablo-hub's Streak" />
-  
 </div>
 
 <h2 align="center">My Social Networks</h2>
 
-<div style="display: inline_block" padding: 10px; align="center"><br>
+<div style="display: flex; justify-content: center; gap: 20px;" align="center">
   <a href="https://www.instagram.com/alex_p.oliveira/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.facebook.com/alexpablo.deoliveiramoraes" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://www.linkedin.com/in/alex-pablo-d-4961a9141/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -49,6 +48,5 @@
   <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://wa.me/5593984220084?text=Ol%C3%A1%20Alex%20Pablo" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>    <a href="mailto:oliveiramoraes230@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
-
 
 ![Snake animation](https://github.com/AlexPablo-hub/AlexPablo-hub/blob/output/github-contribution-grid-snake.svg)
