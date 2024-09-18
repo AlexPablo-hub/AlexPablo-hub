@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/a7eb64bc-2d0e-4b9a-8024-45dce308e97c" alt="Link in bio" style="width: 100%; max-width: 820px; height: auto;">
-</div>
-
-
-## Hi there 👋
-**AlexPablo-hub/AlexPablo-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Hello and welcome, my name is Alex Pablo, a backend programmer in training 👋</h2>
 
 <h2 align="center">Technology Stack</h2>
 
