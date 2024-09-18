@@ -9,7 +9,9 @@ focus is on continuous learning 📚 and improving my skills with personal proje
 
 ---
 
-<h2 align="center">Technology Stack  🛠 </h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alexpablo-hub/logo.png" alt="Technology Stack Icon" width="50"/>
+</p>
 
 ---
 
