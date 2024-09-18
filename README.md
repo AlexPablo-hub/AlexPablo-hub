@@ -1,5 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=2000&color=4CF727&center=true&vCenter=true&random=true&width=900&lines=Hello+and+welcome%2C+my+name+is+Alex+Pablo+a+programmer+in+training+" alt="Typing SVG" /></a>
-
+<div style="display: flex; gap: 10px;">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=2000&color=4CF727&center=true&vCenter=true&random=true&width=900&lines=Hello+and+welcome%2C+my+name+is+Alex+Pablo+a+programmer+in+training+" alt="Typing SVG" /></a>
+</div>
 I'm studying Information Systems and I'm passionate about technology, especially programming, with a focus on becoming a Java backend developer.
 I have experience with various languages and tools, including Java, Python, C, JavaScript, Node.js, MySQL and Git. In addition, my goal is always to learn and improve my skills, constantly looking for new development opportunities.
 My greatest desire is to grow in the development field, always looking for challenges and opportunities to contribute innovative solutions.
