@@ -1,6 +1,7 @@
 <div style="display: flex; gap: 10px;">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=2000&color=4CF727&center=true&vCenter=true&random=true&width=900&lines=Hello+and+welcome%2C+my+name+is+Alex+Pablo+a+programmer+in+training+" alt="Typing SVG" /></a>
-</div>
+</div> 
+
 I'm an Information Systems student with a passion for technology and programming 💻, aiming to become a backend Java programmer. I have experience with Java, Python, C, JavaScript, Node.js, MySQL and others. My focus is on continuous learning 📚 and improving my skills with personal projects 💡, while looking for opportunities to contribute to developing solutions in the job market 🎯.
 
 <h2 align="center">Technology Stack  🛠 </h2>
@@ -25,9 +26,6 @@ I'm an Information Systems student with a passion for technology and programming
   <img align="center" alt="JASON" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg">
   <img align="center" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Office" height="40" width="40" src="https://img.icons8.com/?size=100&id=6kZdxe7t8OL1&format=png&color=000000">
-  <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Windows" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-  <img align="center" alt="ChatGPT" height="40" width="40" src="https://img.icons8.com/?size=100&id=Nts60kQIvGqe&format=png&color=000000">
 </div>
 
 <h2 align="center">My Github Stats 📊</h2>
