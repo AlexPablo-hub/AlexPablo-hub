@@ -1,4 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=43F71E&center=&vCenter=&repeat=falso&random=&width=435&lines=Hello+and+welcome%2C)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=43F71E&center=&vCenter=&repeat=falso&random=&width=435&lines=my+name+is+Alex+Pablo%2C)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=43F71E&center=&vCenter=&repeat=falso&random=&width=435&lines=a+backend+programmer+in+training+%F0%9F%91%8B)](https://git.io/typing-svg)
+<div style="display: flex; gap: 10px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=43F71E&center=&vCenter=&repeat=falso&random=&width=435&lines=Hello+and+welcome%2C" alt="Typing SVG" />
+  </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=43F71E&center=&vCenter=&repeat=falso&random=&width=435&lines=my+name+is+Alex+Pablo%2C" alt="Typing SVG" />
+  </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=43F71E&center=&vCenter=&repeat=falso&random=&width=435&lines=a+backend+programmer+in+training+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</div>
+
 
 I'm studying Information Systems and I'm passionate about technology, especially programming, with a focus on becoming a Java backend developer.
 I have experience with various languages and tools, including Java, Python, C, JavaScript, Node.js, MySQL and Git. In addition, my goal is always to learn and improve my skills, constantly looking for new development opportunities.
