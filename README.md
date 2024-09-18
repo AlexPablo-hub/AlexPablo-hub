@@ -1,4 +1,5 @@
-<h2>Hello and welcome, my name is Alex Pablo, a backend programmer in training 👋</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=18&duration=4000&pause=1000&color=4BF713&width=435&lines=Hello+and+welcome%2C+my+name+is+Alex+Pablo%2C+a+backend+programmer+in+training+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<h2></h2>
 
 I'm studying Information Systems and I'm passionate about technology, especially programming, with a focus on becoming a Java backend developer.
 I have experience with various languages and tools, including Java, Python, C, JavaScript, Node.js, MySQL and Git. In addition, my goal is always to learn and improve my skills, constantly looking for new development opportunities.
@@ -31,7 +32,7 @@ My greatest desire is to grow in the development field, always looking for chall
   <img align="center" alt="ChatGPT" height="40" width="40" src="https://img.icons8.com/?size=100&id=Nts60kQIvGqe&format=png&color=000000">
 </div>
 
-<h2 align="center">My Github Stats</h2>
+<h2 align="center">My Github Stats 📊</h2>
 
 <div style="display: flex; justify-content: center; gap: 20px;" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexPablo-hub&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" alt="AlexPablo-hub's Stats" />
@@ -39,7 +40,7 @@ My greatest desire is to grow in the development field, always looking for chall
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexPablo-hub&theme=chartreuse-dark&hide_border=false" alt="AlexPablo-hub's Streak" />
 </div>
 
-<h2 align="center">My Social Networks</h2>
+<h2 align="center">My Social Networks 🌐</h2>
 
 <div style="display: flex; justify-content: center; gap: 20px;" align="center">
   <a href="https://www.instagram.com/alex_p.oliveira/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
