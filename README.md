@@ -1,13 +1,5 @@
 <div style="display: flex; gap: 10px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=43F71E&center=&vCenter=&repeat=falso&random=&width=435&lines=Hello+and+welcome%2C" alt="Typing SVG" />
-  </a>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=43F71E&center=&vCenter=&repeat=falso&random=&width=435&lines=my+name+is+Alex+Pablo%2C" alt="Typing SVG" />
-  </a>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=43F71E&center=&vCenter=&repeat=falso&random=&width=435&lines=a+backend+programmer+in+training+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&color=4CF727&center=true&vCenter=true&width=900&height=80&lines=Hello+and+welcome%2C+my+name+is+Alex+Pablo+a+programmer+in+training+" alt="Typing SVG" /></a>
 </div>
 
 
