@@ -1,4 +1,6 @@
-![Link in bio](https://github.com/user-attachments/assets/a7eb64bc-2d0e-4b9a-8024-45dce308e97c)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a7eb64bc-2d0e-4b9a-8024-45dce308e97c" alt="Link in bio" style="width: 100%; max-width: 820px; height: auto;">
+</div>
 
 
 ## Hi there 👋
