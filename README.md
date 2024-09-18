@@ -1,6 +1,11 @@
 <h2>Hello and welcome, my name is Alex Pablo, a backend programmer in training 👋</h2>
+I'm studying Information Systems and I'm passionate about technology, especially programming, with a focus on becoming a Java backend developer.
+I have experience with various languages and tools, including Java, Python, C, JavaScript, Node.js, MySQL and Git. In addition, my goal is always to learn and improve my skills, constantly looking for new development opportunities.
+I love challenging myself by taking part in programming marathons and keeping up to date with new projects and technologies. My greatest desire is to grow in the area of software development, always looking for challenges and opportunities to contribute innovative solutions.
 
-<h2 align="center">Technology Stack</h2>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AlexPablo-hub&theme=dracula)
+
+<h2 align="center">Technology Stack  🛠 </h2>
 
 <div style="display: flex; justify-content: center; gap: 20px;" align="center">
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
