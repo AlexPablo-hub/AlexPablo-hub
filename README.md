@@ -11,6 +11,8 @@ focus is on continuous learning 📚 and improving my skills with personal proje
 
 <h2 align="center">Technology Stack  🛠 </h2>
 
+---
+
 <div style="display: flex; justify-content: center; gap: 20px;" align="center">
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
