@@ -1,7 +1,7 @@
 <div style="display: flex; gap: 10px;">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=2000&color=4CF727&center=true&vCenter=true&random=true&width=900&lines=Hello+and+welcome%2C+my+name+is+Alex+Pablo+a+programmer+in+training+" alt="Typing SVG" /></a>
 </div>
-I'm an Information Systems student with a passion for technology 💻 and programming 🖥️, aiming to become a backend Java programmer ☕. I have experience with Java, Python, C, JavaScript, Node.js, MySQL and others. My focus is on continuous learning 📚 and improving my skills with personal projects 💡, while looking for opportunities to contribute to developing solutions in the job market 🎯.
+I'm an Information Systems student with a passion for technology and programming 💻, aiming to become a backend Java programmer. I have experience with Java, Python, C, JavaScript, Node.js, MySQL and others. My focus is on continuous learning 📚 and improving my skills with personal projects 💡, while looking for opportunities to contribute to developing solutions in the job market 🎯.
 
 <h2 align="center">Technology Stack  🛠 </h2>
 
