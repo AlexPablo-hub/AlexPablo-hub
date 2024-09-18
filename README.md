@@ -1,9 +1,14 @@
 <div style="display: flex; gap: 10px;">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=2000&color=4CF727&center=true&vCenter=true&random=true&width=900&lines=Hello+and+welcome%2C+my+name+is+Alex+Pablo+a+programmer+in+training+" alt="Typing SVG" /></a>
 </div> 
+
 ---
-I'm an Information Systems student with a passion for technology and programming 💻, aiming to become a backend Java programmer. I have experience with Java, Python, C, JavaScript, Node.js, MySQL and others. My focus is on continuous learning 📚 and improving my skills with personal projects 💡, while looking for opportunities to contribute to developing solutions in the job market 🎯.
+
+I'm an Information Systems student with a passion for technology and programming 💻, aiming to become a backend Java programmer. I have experience with Java, Python, C, JavaScript, Node.js, MySQL and others. My 
+focus is on continuous learning 📚 and improving my skills with personal projects 💡, while looking for opportunities to contribute to developing solutions in the job market 🎯.
+
 ---
+
 <h2 align="center">Technology Stack  🛠 </h2>
 
 <div style="display: flex; justify-content: center; gap: 20px;" align="center">
@@ -27,7 +32,9 @@ I'm an Information Systems student with a passion for technology and programming
   <img align="center" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Office" height="40" width="40" src="https://img.icons8.com/?size=100&id=6kZdxe7t8OL1&format=png&color=000000">
 </div>
+
 ---
+
 <h2 align="center">My Github Stats 📊</h2>
 
 <div style="display: flex; justify-content: center; gap: 20px;" align="center">
@@ -35,7 +42,9 @@ I'm an Information Systems student with a passion for technology and programming
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPablo-hub&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact" alt="AlexPablo-hub's Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexPablo-hub&theme=chartreuse-dark&hide_border=false" alt="AlexPablo-hub's Streak" />
 </div>
+
 ---
+
 <h2 align="center">My Social Networks 🌐</h2>
 
 <div style="display: flex; justify-content: center; gap: 20px;" align="center">
