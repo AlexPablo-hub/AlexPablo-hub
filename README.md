@@ -1,20 +1,9 @@
 <div style="display: flex; gap: 10px;">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=2000&color=4CF727&center=true&vCenter=true&random=true&width=900&lines=Hello+and+welcome%2C+my+name+is+Alex+Pablo+a+programmer+in+training+" alt="Typing SVG" /></a>
 </div> 
-
----
-
 I'm an Information Systems student with a passion for technology and programming 💻, aiming to become a backend Java programmer. I have experience with Java, Python, C, JavaScript, Node.js, MySQL and others. My 
 focus is on continuous learning 📚 and improving my skills with personal projects 💡, while looking for opportunities to contribute to developing solutions in the job market 🎯.
-
----
-
-<p align="center">
-  <strong>Technology Stack 🛠</strong>
-</p>
-
----
-
+<h2 align="center">Technology Stack 🛠</h2>
 <div style="display: flex; justify-content: center; gap: 20px;" align="center">
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,21 +25,13 @@ focus is on continuous learning 📚 and improving my skills with personal proje
   <img align="center" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Office" height="40" width="40" src="https://img.icons8.com/?size=100&id=6kZdxe7t8OL1&format=png&color=000000">
 </div>
-
----
-
 <h2 align="center">My Github Stats 📊</h2>
-
 <div style="display: flex; justify-content: center; gap: 20px;" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexPablo-hub&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" alt="AlexPablo-hub's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPablo-hub&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact" alt="AlexPablo-hub's Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexPablo-hub&theme=chartreuse-dark&hide_border=false" alt="AlexPablo-hub's Streak" />
 </div>
-
----
-
 <h2 align="center">My Social Networks 🌐</h2>
-
 <div style="display: flex; justify-content: center; gap: 20px;" align="center">
   <a href="https://www.instagram.com/alex_p.oliveira/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.facebook.com/alexpablo.deoliveiramoraes" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
@@ -61,5 +42,4 @@ focus is on continuous learning 📚 and improving my skills with personal proje
   <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://wa.me/5593984220084?text=Ol%C3%A1%20Alex%20Pablo" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>    <a href="mailto:oliveiramoraes230@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
-
 ![Snake animation](https://github.com/AlexPablo-hub/AlexPablo-hub/blob/output/github-contribution-grid-snake.svg)
