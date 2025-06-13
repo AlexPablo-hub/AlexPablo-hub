@@ -1,7 +1,7 @@
 <div style="display: flex; gap: 10px;">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=2000&color=4CF727&center=true&vCenter=true&random=true&width=900&lines=Hello+and+welcome%2C+my+name+is+Alex+Pablo+a+programmer+in+training+" alt="Typing SVG" /></a>
 </div> 
-<p align="left">I'm an Information Systems student with a passion for technology and programming 💻, aiming to become a backend Java programmer. I have experience with Java, Python, C, JavaScript, Node.js, MySQL and others. My focus is on continuous learning 📚 and improving my skills with personal projects 💡, while looking for opportunities to contribute to developing solutions in the job market 🎯.</p>
+<p align="left">I'm an Information Systems student passionate about technology and programming 💻. I aim to become a backend Java developer and have experience with Java, Python, C, JavaScript, Node.js, MySQL, and more. My focus is on continuous learning 📚, improving my skills through personal projects 💡, and seeking opportunities to contribute to impactful solutions in the job market 🎯.</p>
 
 ###
 
@@ -59,8 +59,8 @@
   <a href="https://www.instagram.com/alex_p.oliveira/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/channels/@alex_pablo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://discord.com/users/538035182448541708" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
   <a href="mailto:oliveiramoraes230@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -93,14 +93,12 @@
 
 ###
 
-<br clear="both" />
-<img src="https://raw.githubusercontent.com/AlexPablo-hub/AlexPablo-hub/output/dist/snake.svg" alt="Snake animation" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexPablo-hub/AlexPablo-hub/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexPablo-hub/AlexPablo-hub/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/AlexPablo-hub/AlexPablo-hub/output/github-contribution-grid-snake.svg" style="width: 900px; max-width: 100%;" />
+  </picture>
+</div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexPablo-hub/AlexPablo-hub/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexPablo-hub/AlexPablo-hub/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlexPablo-hub/AlexPablo-hub/output/pacman-contribution-graph.svg">
-</picture>
 
