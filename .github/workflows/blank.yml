@@ -13,10 +13,6 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: AlexPablo-hub
-          # branch onde o arquivo será salvo
-          outputs: |
-            dist/snake.svg
-          # branch onde o SVG será salvo (ele cria se não existir)
-          branch: output
+          svg_out_path: dist/snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
