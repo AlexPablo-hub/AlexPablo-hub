@@ -5,7 +5,7 @@ I'm an Information Systems student with a passion for technology and programming
 focus is on continuous learning 📚 and improving my skills with personal projects 💡, while looking for opportunities to contribute to developing solutions in the job market 🎯.
 
 <h2 align="center">Technology Stack 🛠</h2>
-<div style="display: flex; justify-content: center; gap: 20px;" align="center">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
