@@ -27,8 +27,9 @@ jobs:
 
       - name: Move generated SVG to output branch
         run: |
+          mkdir -p output-branch/dist
           cp dist/snake.svg output-branch/dist/snake.svg
-
+    
       - name: Commit and push
         run: |
           cd output-branch
