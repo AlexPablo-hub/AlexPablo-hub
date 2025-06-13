@@ -93,7 +93,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AlexPablo-hub/AlexPablo-hub/output/snake.svg" alt="Snake animation" />
+<br clear="both" />
+<img src="https://raw.githubusercontent.com/AlexPablo-hub/AlexPablo-hub/output/dist/snake.svg" alt="Snake animation" />
 
 ###
 
