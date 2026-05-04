@@ -78,15 +78,17 @@
 
 ###
 
+<!-- Contador de visitas — substituído de profile-counter.glitch.me (instável) para hits.seeyoufarm.com -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/AlexPablo-hub/count.svg?"  />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexPablo-hub&count_bg=%234CF727&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false" />
 </div>
 
 ###
 
+<!-- Stats cards — substituído de github-readme-stats.vercel.app (pausado desde jan/2026) para github-readme-stats-fast.vercel.app -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexPablo-hub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexPablo-hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AlexPablo-hub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=AlexPablo-hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=AlexPablo-hub&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=AlexPablo-hub&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
@@ -100,5 +102,3 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/AlexPablo-hub/AlexPablo-hub/output/github-contribution-grid-snake.svg" style="width: 900px; max-width: 100%;" />
   </picture>
 </div>
-
-
